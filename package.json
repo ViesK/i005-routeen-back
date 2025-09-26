@@ -12,7 +12,7 @@
     "mongodb": "^6.15.0",
     "mongoose": "^8.13.1",
     "next": "15.2.4",
-    "react": "^19",
+    "react": "^19.1.1",
     "react-dom": "^19"
   },
   "devDependencies": {
